@@ -1,9 +1,13 @@
 <scheme name="mysorbet" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2026.3.0.0</property>
     <property name="originalScheme">mysorbet</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="87D75F" />
     <option name="ANNOTATIONS_COLOR" value="8787AF" />
@@ -388,6 +392,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GRAMMAR_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="5a5a5a" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="87afd7" />
@@ -574,7 +584,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="d75f5f" />
+        <option name="EFFECT_COLOR" value="5a5a5a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
